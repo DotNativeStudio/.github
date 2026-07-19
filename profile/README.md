@@ -25,3 +25,44 @@
 
 如果尚未创建任何项目仓库，请直接前往组织讨论区参与讨论：
 https://github.com/orgs/DotNativeStudio/discussions
+
+
+---
+
+# DotNativeStudio
+
+Building a complete set of "out-of-the-box" cross-platform native apps,
+free for everyone to use and modify.
+
+- System-Wide Coverage
+  From notepad to file manager, we rebuild and upgrade the tools you use
+  every day, one by one.
+
+- Consistent Multi-Platform
+  A single core codebase, delivering the most native look and feel on
+  Windows, Linux, and macOS.
+
+- High Performance, Lightweight
+  Harnessing the extreme performance of .NET for fast startup and
+  minimal resource usage.
+
+- Community Driven
+  All design ideas and development logs are open. We look forward to
+  your participation and ideas.
+
+## Contribution and Contact
+
+We welcome contributions of all kinds, whether code, design, testing,
+or documentation:
+
+1. Find a project to work on
+   Browse the Issues page and look for tasks labeled 'good first issue'.
+   https://github.com/orgs/DotNativeStudio/repositories?type=all
+
+2. Discuss new ideas
+   Share your thoughts on existing apps or propose new ones in the
+   repository Discussions.
+
+If no project repositories exist yet, please join the discussion
+directly in the organization discussions:
+https://github.com/orgs/DotNativeStudio/discussions
