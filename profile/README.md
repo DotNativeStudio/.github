@@ -1,12 +1,27 @@
-## Hi there 👋
+打造一整套“开箱即用”的全平台原生应用，让每个人都能自由使用、自由修改。
 
-<!--
+- 系统级覆盖
+  从记事本到文件管理器，逐个还原并升级你每天都会用到的工具。
 
-**Here are some ideas to get you started:**
+- 多平台一致
+  同一份核心代码，在 Windows / Linux / macOS 上呈现最贴合系统的原生风格。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 高性能轻量化
+  利用 .NET 的极致性能，让每个应用启动快、占用资源少。
+
+- 社区驱动
+  开放所有设计思路与开发日志，期待每一位有想法的你参与共建。
+
+## 参与与联系
+
+我们欢迎任何形式的贡献，无论是代码、设计、测试还是文档建议：
+
+1. 找感兴趣的项目
+   浏览 Issues 页面，寻找带有 good first issue 标签的任务。
+   https://github.com/orgs/DotNativeStudio/repositories?type=all
+
+2. 讨论新想法
+   在对应仓库的 Discussions 提出你对现有应用或新 App 的想法。
+
+如果尚未创建任何项目仓库，请直接前往组织讨论区参与讨论：
+https://github.com/orgs/DotNativeStudio/discussions
